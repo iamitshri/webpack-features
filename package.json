@@ -1,0 +1,20 @@
+{
+  "name": "webpack-features",
+  "version": "1.0.0",
+  "description": "Quick intro to features such as using sourceMap, minimizing, concatenating files, using watch mode, using js linter like jshint, using css, style and scss loader ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.28.4",
+    "jshint": "^2.9.5",
+    "jshint-loader": "^0.8.4",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.0.0"
+  }
+}

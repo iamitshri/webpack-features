@@ -1,0 +1,12 @@
+body{
+    h1{
+        font-family: sans-serif;
+    }
+    div{
+        background-color: yellowgreen;
+        border:1px dotted black;
+    }
+    div:after{
+        content: "I love webpack"
+    }
+}

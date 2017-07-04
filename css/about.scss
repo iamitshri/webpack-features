@@ -1,0 +1,12 @@
+body{
+    h1{
+        font-family: sans-serif;
+    }
+    div{
+        background-color: goldenrod;
+        border:1px dashed black;
+    }
+    div:before{
+        content: "I love Fullstack development"
+    }
+}
